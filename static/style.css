@@ -1,0 +1,6 @@
+body{
+    max-width: min-content;
+}
+.carousel-item{
+ margin:70px;
+}
